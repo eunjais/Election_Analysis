@@ -7,7 +7,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Data Source: election_results.csv
 - Software: Python 3.10, Visual Studio Code 17.2.32210.308
 
-##Overview of the Election Audit
+## Overview of the Election Audit
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of counties who voted.
@@ -19,7 +19,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
     b. Calculate the percentage of votes each candidate won.
     c. Determine the winner of the election based on popular vote.
     
-###Election Audit Results
+### Election Audit Results
 
 There was a total of 369,711 votes cast during this Colorado election. 
 
@@ -35,9 +35,9 @@ The winner of the election was Diana DeGette, who won 272,892 votes, which const
 
 More information can be found in the election_analysis.txt
 
-###Election Audit Summary
+### Election Audit Summary
 
-####The analysis of the election show that:
+#### The analysis of the election show that:
 - There were "x" votes cast in the election.
 - The candidates were:
   - Candidate 1
@@ -50,7 +50,7 @@ More information can be found in the election_analysis.txt
 - The winner of the election was:
   - Candidate (1,2, or 3), who received "x%" of the vote and "y" number of votes.
   
-####The analysis of the largest vote per county show that:
+#### The analysis of the largest vote per county show that:
 - There were "x" votes cast in the election.
 - The counties involved were:
   - County 1
