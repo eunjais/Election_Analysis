@@ -63,7 +63,7 @@ More information can be found in the election_analysis.txt
 - The county that made the most contribution to this electrion process was:
   - County (1,2, or 3), who contributed "x%" of the vote, which is "y" number of votes.
 
-####This script can be used for any election.
+#### This script can be used for any election.
 
 The foundation of both candidate-vote analysis and county-vote analysis are the same. Utilizing this code, we can apply it to any other electoral process- whether it be on a county level, state-level, or federal. Tailoring this code to utilize in bigger pools of populations would simply be the matter of giving it a new data set, and minorly modifying the names of variables to further clarify what we are trying to analyze.
 
